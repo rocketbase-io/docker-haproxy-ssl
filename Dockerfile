@@ -1,5 +1,6 @@
 FROM progrium/busybox
 MAINTAINER pjpires@gmail.com
+MAINTAINER niels.schelbach@rocketbase.io
 
 EXPOSE 80 443
 
